@@ -26,6 +26,14 @@ All the data that is put in ```/summer/plume``` is also visible directly at the 
 
 You can download files by 
  - clicking on the name and then on the http server link
- - using some wget command : ```wget https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/PLUME/README.txt```or something like : ```wget https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/SASIP/model-forcings/atmo_forcing/ERA5_Arctic/ERA5_v10_y{2011..2020}.nc``` to retrieve multiple files
+ - using some wget command :
+
+```wget https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/PLUME/README.txt```
+
+or something like : 
+
+```wget https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/SASIP/model-forcings/atmo_forcing/ERA5_Arctic/ERA5_v10_y{2011..2020}.nc``` 
+
+to retrieve multiple files
 
 
