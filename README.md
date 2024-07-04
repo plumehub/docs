@@ -2,9 +2,9 @@
 
 ## Github organization
 
-To share codes or models, a [github organization](https://gricad-gitlab.univ-grenoble-alpes.fr/plume) has been set up for PLUME members.
+To share codes or models, a [github organization](https://github.com/plumehub) has been set up for PLUME members.
 
-To be added as a collaborator, please send your agalan login to aurelie.albert@uxxx.gxxxxxxx-axxxx.fr
+To be added as a collaborator, please send your github login to aurelie.albert@uxxx.gxxxxxxx-axxxx.fr
 
 Then, you can create your own project and collaborate on other's projects
 
@@ -22,4 +22,10 @@ Check [here](gricad.md) for more informations on how to set up your access and c
 
 ### Opendap
 
-All the data that is put in ```/summer/plume``` is also visible directly at the adress : 
+All the data that is put in ```/summer/plume``` is also visible directly at the adress : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/PLUME/catalog.html
+
+You can download files by 
+ - clicking on the name and then on the http server link
+ - using some wget command : ```wget https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/PLUME/README.txt```or something like : ```wget https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/SASIP/model-forcings/atmo_forcing/ERA5_Arctic/ERA5_v10_y{2011..2020}.nc``` to retrieve multiple files
+
+
