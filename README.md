@@ -26,7 +26,7 @@ All the data that is put in ```/summer/plume``` is also visible directly at the 
 
 You can download files by 
  - clicking on the name and then on the http server link
- - using some wget command :
+ - using some wget commands :
 
 ```bash
 wget https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/PLUME/README.txt
